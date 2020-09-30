@@ -37,7 +37,7 @@ CDN &amp; Peer 2 Peer
   
   CDN 節點作為 Peer to Peer 的補償節點：
   
-              使用者 a 第一次從來源網站獲取內容 c ->  CDN 節點快取此內容
+              使用者 a 第一次從來源網站獲取內容 c ->  從 CDN 邊緣節點 c 快取此內容
               
                      |
                      V
@@ -50,7 +50,7 @@ CDN &amp; Peer 2 Peer
                                                                                ｜
                                                                                V
                                                                                
-                                                                           CDN 節點快取此內容
+                                                                            從 CDN 邊緣節點 c 快取此內容
                                                                                
                                                                                
   
