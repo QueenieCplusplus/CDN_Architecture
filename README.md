@@ -3,7 +3,7 @@ CDN &amp; Peer 2 Peer
 
 
 
-                           Central Node
+                           Central Node (Content Providers Server)
                            
                             /        \
                            /          \
@@ -17,11 +17,11 @@ CDN &amp; Peer 2 Peer
                    
                 Edge Node    Edge Node     Edge Node
  
-               /                 |
-              /                  |
-             /                   |
+               /                 |               \
+              /                  |                \
+             /                   |                 \
              
-        Edge AS               Edge AS
+        Edge AS               Edge AS             Edge AS
         
           /
           
